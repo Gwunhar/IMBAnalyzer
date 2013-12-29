@@ -51,14 +51,14 @@
             // 
             this.tb_IMB_Value.Location = new System.Drawing.Point(12, 36);
             this.tb_IMB_Value.Name = "tb_IMB_Value";
-            this.tb_IMB_Value.Size = new System.Drawing.Size(379, 20);
+            this.tb_IMB_Value.Size = new System.Drawing.Size(548, 20);
             this.tb_IMB_Value.TabIndex = 0;
             this.tb_IMB_Value.TextChanged += new System.EventHandler(this.tb_IMB_Value_TextChanged);
             // 
             // lbl_IMB_Value
             // 
             this.lbl_IMB_Value.AutoSize = true;
-            this.lbl_IMB_Value.Location = new System.Drawing.Point(168, 20);
+            this.lbl_IMB_Value.Location = new System.Drawing.Point(252, 20);
             this.lbl_IMB_Value.Name = "lbl_IMB_Value";
             this.lbl_IMB_Value.Size = new System.Drawing.Size(56, 13);
             this.lbl_IMB_Value.TabIndex = 1;
@@ -194,7 +194,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(403, 313);
+            this.ClientSize = new System.Drawing.Size(572, 313);
             this.Controls.Add(this.lbl_Mailer_ID_Desc);
             this.Controls.Add(this.lbl_Service_Type_ID_Desc);
             this.Controls.Add(this.lbl_OEL_Option_Desc);
