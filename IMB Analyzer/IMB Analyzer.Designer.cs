@@ -45,6 +45,7 @@
             this.lbl_OEL_Option_Desc = new System.Windows.Forms.Label();
             this.lbl_Service_Type_ID_Desc = new System.Windows.Forms.Label();
             this.lbl_Mailer_ID_Desc = new System.Windows.Forms.Label();
+            this.btn_Reset = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // tb_IMB_Value
@@ -190,11 +191,22 @@
             this.lbl_Mailer_ID_Desc.Size = new System.Drawing.Size(0, 13);
             this.lbl_Mailer_ID_Desc.TabIndex = 16;
             // 
+            // btn_Reset
+            // 
+            this.btn_Reset.Location = new System.Drawing.Point(252, 278);
+            this.btn_Reset.Name = "btn_Reset";
+            this.btn_Reset.Size = new System.Drawing.Size(56, 23);
+            this.btn_Reset.TabIndex = 17;
+            this.btn_Reset.Text = "Reset";
+            this.btn_Reset.UseVisualStyleBackColor = true;
+            this.btn_Reset.Click += new System.EventHandler(this.btn_Reset_Click);
+            // 
             // IMBAnalyzer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(572, 313);
+            this.Controls.Add(this.btn_Reset);
             this.Controls.Add(this.lbl_Mailer_ID_Desc);
             this.Controls.Add(this.lbl_Service_Type_ID_Desc);
             this.Controls.Add(this.lbl_OEL_Option_Desc);
@@ -238,6 +250,7 @@
         private System.Windows.Forms.Label lbl_OEL_Option_Desc;
         private System.Windows.Forms.Label lbl_Service_Type_ID_Desc;
         private System.Windows.Forms.Label lbl_Mailer_ID_Desc;
+        private System.Windows.Forms.Button btn_Reset;
     }
 }
 

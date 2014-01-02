@@ -212,27 +212,27 @@ namespace IMB_Analyzer
                         break;
 
                     case "264":
-                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, with Tracking";
+                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, no Tracking";
                         break;
 
                     case "602":
-                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, with Tracking";
+                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, no Tracking";
                         break;
 
                     case "038":
-                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, with Tracking";
+                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, no Tracking";
                         break;
 
                     case "274":
-                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, no Tracking";
+                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, with Tracking";
                         break;
 
                     case "601":
-                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, no Tracking";
+                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, with Tracking";
                         break;
 
                     case "045":
-                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, no Tracking";
+                        lbl_Service_Type_ID_Desc.Text = "Periodical, Full Service, with Tracking";
                         break;
 
                     case "301":
@@ -431,6 +431,23 @@ namespace IMB_Analyzer
                         break;
                 }
             }
+            else
+            {
+                lbl_Mailer_ID_Desc.Text = "";
+                lbl_OEL_Option_Desc.Text = "";
+                lbl_Service_Type_ID_Desc.Text = "";
+                tb_IMB_Sequence_Number.Text = "";
+                tb_Mailer_ID.Text = "";
+                tb_OEL_Option.Text = "";
+                tb_Service_Type_ID.Text = "";
+                tb_Zip4.Text = "";
+                tb_DPB.Text = "";
+            }
+        }
+
+        private void btn_Reset_Click(object sender, EventArgs e)
+        {
+            tb_IMB_Value.Text = "";
         }
     }
 }
