@@ -448,6 +448,7 @@ namespace IMB_Analyzer
         private void btn_Reset_Click(object sender, EventArgs e)
         {
             tb_IMB_Value.Text = "";
+            tb_IMB_Value.Focus();
         }
     }
 }
