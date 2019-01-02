@@ -1,0 +1,181 @@
+STID|Class|Service Level|Service Description 1|Service Description 2
+300|First Class|Nonautomation w/o IMb Tracing|No Address Corrections|
+700|First Class|Nonautomation w/o IMb Tracing|Manual Corrections |
+230|First Class|Nonautomation w/o IMb Tracing|OneCode ACS - ASR 1|Address Service Requested Opt 1
+080|First Class|Nonautomation w/o IMb Tracing|OneCode ACS - ASR 2|Address Service Requested Opt 2
+504|First Class|Nonautomation w/o IMb Tracing|OneCode ACS - CSR1|Change Service Requested Opt 1
+082|First Class|Nonautomation w/o IMb Tracing|OneCode ACS - CSR 2|Change Service Requested Opt 2
+341|First Class|Nonautomation w/o IMb Tracing|OneCode ACS - RSR 2|Return Service Requested Opt 2
+345|First Class|Nonautomation w/o IMb Tracing|OneCode ACS - TRSR 2|Temp-Return Service Requested Opt 2
+501|First Class|Nonautomation w/o IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+507|First Class|Nonautomation w/o IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+517|First Class|Nonautomation w/o IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+510|First Class|Nonautomation w/o IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+535|First Class|Nonautomation w/o IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2
+543|First Class|Nonautomation w/o IMb Tracing|Traditional ACS - TRSR 2|Temp-Return Service Requested Opt 2
+704|Periodical|Nonautomation w/o IMb Tracing|Manual Corrections|
+784|Periodical|Nonautomation w/o IMb Tracing|OneCode ACS|
+600|Periodical|Nonautomation w/o IMb Tracing|Traditional ACS|
+301|Standard|Nonautomation w/o IMb Tracing|No Address Corrections|
+702|Standard|Nonautomation w/o IMb Tracing|Manual Corrections |
+090|Standard|Nonautomation w/o IMb Tracing|OneCode ACS - ASR 1|Address Service Requested Opt 1
+334|Standard|Nonautomation w/o IMb Tracing|OneCode ACS - ASR 2|Address Service Requested Opt 2
+092|Standard|Nonautomation w/o IMb Tracing|OneCode ACS - CSR1|Change Service Requested Opt 1
+513|Standard|Nonautomation w/o IMb Tracing|OneCode ACS - CSR 2|Change Service Requested Opt 2
+272|Standard|Nonautomation w/o IMb Tracing|OneCode ACS - RSR 2|Return Service Requested Opt 2
+540|Standard|Nonautomation w/o IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+547|Standard|Nonautomation w/o IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+560|Standard|Nonautomation w/o IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+565|Standard|Nonautomation w/o IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+570|Standard|Nonautomation w/o IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2
+401|Bound Printed Matter|Nonautomation w/o IMb Tracing|No Address Corrections|
+706|Bound Printed Matter|Nonautomation w/o IMb Tracing|Manual Corrections |
+424|Bound Printed Matter|Nonautomation w/o IMb Tracing|OneCode ACS - ASR 1|Address Service Requested Opt 1
+605|Bound Printed Matter|Nonautomation w/o IMb Tracing|OneCode ACS - ASR 2|Address Service Requested Opt 2
+431|Bound Printed Matter|Nonautomation w/o IMb Tracing|OneCode ACS - CSR 1|Change Service Requested Opt 1
+615|Bound Printed Matter|Nonautomation w/o IMb Tracing|OneCode ACS - CSR 2|Change Service Requested Opt 2
+619|Bound Printed Matter|Nonautomation w/o IMb Tracing|OneCode ACS - RSR 2|Return Service Requested Opt 2
+603|Bound Printed Matter|Nonautomation w/o IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+606|Bound Printed Matter|Nonautomation w/o IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+613|Bound Printed Matter|Nonautomation w/o IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+616|Bound Printed Matter|Nonautomation w/o IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+620|Bound Printed Matter|Nonautomation w/o IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2
+710|Priority Mail|Nonautomation w/o IMb Tracing|Priority Mail|
+712|Priority Mail|Nonautomation w/o IMb Tracing|Priority Mail Flat Rate|
+703|Reply Mail by ZIP|Nonautomation w/o IMb Tracing|Courtesy Reply Mail|
+708|Reply Mail by ZIP|Nonautomation w/o IMb Tracing|Business Reply Mail|
+701|Reply Mail by ZIP|Nonautomation w/o IMb Tracing|First-Class Reply Mail (PRM)|
+070|Reply Mail by MID|Nonautomation w/o IMb Tracing|Courtesy Reply Mail|
+072|Reply Mail by MID|Nonautomation w/o IMb Tracing|Business Reply Mail|
+071|Reply Mail by MID|Nonautomation w/o IMb Tracing|First-Class Reply Mail|
+310|First Class|Nonautomation with IMb Tracing|No Address Corrections|
+040|First Class|Nonautomation with IMb Tracing|Manual Corrections |
+220|First Class|Nonautomation with IMb Tracing|OneCode ACS - ASR 1|Address Service Requested Opt 1
+140|First Class|Nonautomation with IMb Tracing|OneCode ACS - ASR 2|Address Service Requested Opt 2
+502|First Class|Nonautomation with IMb Tracing|OneCode ACS - CSR1|Change Service Requested Opt 1
+240|First Class|Nonautomation with IMb Tracing|OneCode ACS - CSR 2|Change Service Requested Opt 2
+340|First Class|Nonautomation with IMb Tracing|OneCode ACS - RSR 2|Return Service Requested Opt 2
+344|First Class|Nonautomation with IMb Tracing|OneCode ACS - TRSR 2|Temp-Return Service Requested Opt 2
+500|First Class|Nonautomation with IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+506|First Class|Nonautomation with IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+515|First Class|Nonautomation with IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+530|First Class|Nonautomation with IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+534|First Class|Nonautomation with IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2
+538|First Class|Nonautomation with IMb Tracing|Traditional ACS - TRSR 2|Temp-Return Service Requested Opt 2
+044|Periodical|Nonautomation with IMb Tracing|Manual Corrections|
+244|Periodical|Nonautomation with IMb Tracing|OneCode ACS|
+599|Periodical|Nonautomation with IMb Tracing|Traditional ACS|
+311|Standard|Nonautomation with IMb Tracing|No Address Corrections|
+042|Standard|Nonautomation with IMb Tracing|Manual Corrections |
+142|Standard|Nonautomation with IMb Tracing|OneCode ACS - ASR 1|Address Service Requested Opt 1
+585|Standard|Nonautomation with IMb Tracing|OneCode ACS - ASR 2|Address Service Requested Opt 2
+242|Standard|Nonautomation with IMb Tracing|OneCode ACS - CSR1|Change Service Requested Opt 1
+586|Standard|Nonautomation with IMb Tracing|OneCode ACS - CSR 2|Change Service Requested Opt 2
+262|Standard|Nonautomation with IMb Tracing|OneCode ACS - RSR 2|Return Service Requested Opt 2
+539|Standard|Nonautomation with IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+546|Standard|Nonautomation with IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+559|Standard|Nonautomation with IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+564|Standard|Nonautomation with IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+569|Standard|Nonautomation with IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2
+451|Bound Printed Matter|Nonautomation with IMb Tracing|No Address Corrections|
+452|Bound Printed Matter|Nonautomation with IMb Tracing|Manual Corrections |
+453|Bound Printed Matter|Nonautomation with IMb Tracing|OneCode ACS - ASR 1|Address Service Requested Opt 1
+454|Bound Printed Matter|Nonautomation with IMb Tracing|OneCode ACS - ASR 2|Address Service Requested Opt 2
+455|Bound Printed Matter|Nonautomation with IMb Tracing|OneCode ACS - CSR 1|Change Service Requested Opt 1
+456|Bound Printed Matter|Nonautomation with IMb Tracing|OneCode ACS - CSR 2|Change Service Requested Opt 2
+457|Bound Printed Matter|Nonautomation with IMb Tracing|OneCode ACS - RSR 2|Return Service Requested Opt 2
+458|Bound Printed Matter|Nonautomation with IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+459|Bound Printed Matter|Nonautomation with IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+460|Bound Printed Matter|Nonautomation with IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+461|Bound Printed Matter|Nonautomation with IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+462|Bound Printed Matter|Nonautomation with IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2
+050|Reply Mail by ZIP|Nonautomation with IMb Tracing|Courtesy Reply Mail|
+052|Reply Mail by ZIP|Nonautomation with IMb Tracing|Business Reply Mail|
+051|Reply Mail by ZIP|Nonautomation with IMb Tracing|First-Class Reply Mail (PRM)|
+030|Reply Mail by MID|Nonautomation with IMb Tracing|Courtesy Reply Mail|
+032|Reply Mail by MID|Nonautomation with IMb Tracing|Business Reply Mail|
+031|Reply Mail by MID|Nonautomation with IMb Tracing|First-Class Reply Mail|
+733|Share Mail|Nonautomation with IMb Tracing|Alternative Postage (Share Mail) |Unique Imb
+734|Share Mail|Nonautomation with IMb Tracing|Alternative Postage (Share Mail) |Static Imb
+260|First Class|Full-Service w/o IMb Tracing|No Address Corrections|
+036|First Class|Full-Service w/o IMb Tracing|Manual Corrections |
+320|First Class|Full-Service w/o IMb Tracing|Full-Service ACS - ASR 1|Address Service Requested Opt 1
+081|First Class|Full-Service w/o IMb Tracing|Full-Service ACS - ASR 2|Address Service Requested Opt 2
+516|First Class|Full-Service w/o IMb Tracing|Full-Service ACS - CSR 1|Change Service Requested Opt 1
+083|First Class|Full-Service w/o IMb Tracing|Full-Service ACS - CSR 2|Change Service Requested Opt 2
+343|First Class|Full-Service w/o IMb Tracing|Full-Service ACS - RSR 2|Return Service Requested Opt 2
+232|First Class|Full-Service w/o IMb Tracing|Full-Service ACS - TRSR 2|Temp-Return Service Requested Opt 2
+505|First Class|Full-Service w/o IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+509|First Class|Full-Service w/o IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+521|First Class|Full-Service w/o IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+512|First Class|Full-Service w/o IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+537|First Class|Full-Service w/o IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2
+545|First Class|Full-Service w/o IMb Tracing|Traditional ACS - TRSR 2|Temp-Return Service Requested Opt 2
+264|Periodical|Full-Service w/o IMb Tracing|Manual Corrections|
+038|Periodical|Full-Service w/o IMb Tracing|Full Service ACS|
+602|Periodical|Full-Service w/o IMb Tracing|Traditional ACS|
+261|Standard|Full-Service w/o IMb Tracing|No Address Corrections|
+037|Standard|Full-Service w/o IMb Tracing|Manual Corrections |
+091|Standard|Full-Service w/o IMb Tracing|Full-Service ACS - ASR 1|Address Service Requested Opt 1
+550|Standard|Full-Service w/o IMb Tracing|Full-Service ACS - ASR 2|Address Service Requested Opt 2
+093|Standard|Full-Service w/o IMb Tracing|Full-Service ACS - CSR 1|Change Service Requested Opt 1
+567|Standard|Full-Service w/o IMb Tracing|Full-Service ACS - CSR 2|Change Service Requested Opt 2
+529|Standard|Full-Service w/o IMb Tracing|Full-Service ACS - RSR 2|Return Service Requested Opt 2
+542|Standard|Full-Service w/o IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+551|Standard|Full-Service w/o IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+562|Standard|Full-Service w/o IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+568|Standard|Full-Service w/o IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+572|Standard|Full-Service w/o IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2
+265|Bound Printed Matter|Full-Service w/o IMb Tracing|No Address Corrections|
+466|Bound Printed Matter|Full-Service w/o IMb Tracing|Manual Corrections |
+423|Bound Printed Matter|Full-Service w/o IMb Tracing|Full Service ACS - ASR 1|Address Service Requested Opt 1
+607|Bound Printed Matter|Full-Service w/o IMb Tracing|Full-Service ACS - ASR 2|Address Service Requested Opt 2
+430|Bound Printed Matter|Full-Service w/o IMb Tracing|Full Service ACS - CSR 1|Change Service Requested Opt 1
+617|Bound Printed Matter|Full-Service w/o IMb Tracing|Full Service ACS - CSR 2|Change Service Requested Opt 2
+621|Bound Printed Matter|Full-Service w/o IMb Tracing|Full Service ACS - RSR 2|Return Service Requested Opt 2
+604|Bound Printed Matter|Full-Service w/o IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+608|Bound Printed Matter|Full-Service w/o IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+614|Bound Printed Matter|Full-Service w/o IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+618|Bound Printed Matter|Full-Service w/o IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+622|Bound Printed Matter|Full-Service w/o IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2
+270|First Class|Full-Service with IMb Tracing|No Address Corrections|
+041|First Class|Full-Service with IMb Tracing|Manual Corrections |
+314|First Class|Full-Service with IMb Tracing|Full-Service ACS - ASR 1|Address Service Requested Opt 1
+141|First Class|Full-Service with IMb Tracing|Full-Service ACS - ASR 2|Address Service Requested Opt 2
+514|First Class|Full-Service with IMb Tracing|Full-Service ACS - CSR 1|Change Service Requested Opt 1
+241|First Class|Full-Service with IMb Tracing|Full-Service ACS - CSR 2|Change Service Requested Opt 2
+342|First Class|Full-Service with IMb Tracing|Full-Service ACS - RSR 2|Return Service Requested Opt 2
+222|First Class|Full-Service with IMb Tracing|Full-Service ACS - TRSR 2|Temp-Return Service Requested Opt 2
+503|First Class|Full-Service with IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+508|First Class|Full-Service with IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+519|First Class|Full-Service with IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+511|First Class|Full-Service with IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+536|First Class|Full-Service with IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2
+544|First Class|Full-Service with IMb Tracing|Traditional ACS - TRSR 2|Temp-Return Service Requested Opt 2
+274|Periodical|Full-Service with IMb Tracing|Manual Corrections|
+045|Periodical|Full-Service with IMb Tracing|Full Service ACS|
+601|Periodical|Full-Service with IMb Tracing|Traditional ACS|
+271|Standard|Full-Service with IMb Tracing|No Address Corrections|
+043|Standard|Full-Service with IMb Tracing|Manual Corrections |
+143|Standard|Full-Service with IMb Tracing|Full-Service ACS - ASR 1|Address Service Requested Opt 1
+548|Standard|Full-Service with IMb Tracing|Full-Service ACS - ASR 2|Address Service Requested Opt 2
+243|Standard|Full-Service with IMb Tracing|Full-Service ACS - CSR 1|Change Service Requested Opt 1
+231|Standard|Full-Service with IMb Tracing|Full-Service ACS - CSR 2|Change Service Requested Opt 2
+587|Standard|Full-Service with IMb Tracing|Full-Service ACS - RSR 2|Return Service Requested Opt 2
+541|Standard|Full-Service with IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+549|Standard|Full-Service with IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+561|Standard|Full-Service with IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+566|Standard|Full-Service with IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+571|Standard|Full-Service with IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2
+351|Bound Printed Matter|Full-Service with IMb Tracing|No Address Corrections|
+352|Bound Printed Matter|Full-Service with IMb Tracing|Manual Corrections |
+353|Bound Printed Matter|Full-Service with IMb Tracing|Full Service ACS - ASR 1|Address Service Requested Opt 1
+354|Bound Printed Matter|Full-Service with IMb Tracing|Full-Service ACS - ASR 2|Address Service Requested Opt 2
+355|Bound Printed Matter|Full-Service with IMb Tracing|Full Service ACS - CSR 1|Change Service Requested Opt 1
+356|Bound Printed Matter|Full-Service with IMb Tracing|Full Service ACS - CSR 2|Change Service Requested Opt 2
+357|Bound Printed Matter|Full-Service with IMb Tracing|Full Service ACS - RSR 2|Return Service Requested Opt 2
+358|Bound Printed Matter|Full-Service with IMb Tracing|Traditional ACS - ASR 1|Address Service Requested Opt 1
+359|Bound Printed Matter|Full-Service with IMb Tracing|Traditional ACS - ASR 2|Address Service Requested Opt 2
+360|Bound Printed Matter|Full-Service with IMb Tracing|Traditional ACS - CSR 1|Change Service Requested Opt 1
+361|Bound Printed Matter|Full-Service with IMb Tracing|Traditional ACS - CSR 2|Change Service Requested Opt 2
+362|Bound Printed Matter|Full-Service with IMb Tracing|Traditional ACS - RSR 2|Return Service Requested Opt 2

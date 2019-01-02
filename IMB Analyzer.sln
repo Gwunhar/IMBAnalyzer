@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMB Analyzer", "IMB Analyzer\IMB Analyzer.csproj", "{E490C1A4-E9D9-4090-9E1F-45E24F7F39CC}"
 EndProject
 Global
@@ -16,5 +18,14 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = IMB\u0020Analyzer\\IMB\u0020Analyzer.csproj
+		SccProjectName1 = IMB\u0020Analyzer
+		SccLocalPath1 = IMB\u0020Analyzer
 	EndGlobalSection
 EndGlobal
