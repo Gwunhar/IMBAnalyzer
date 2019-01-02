@@ -1,3 +1,3 @@
-A simple program to analyze Heeter Direct-spec IMBs to replace the tedium of doing the analysis by hand/eye in notepad.
+A simple program to analyze USPS IMBs. This assumes a 6-digit MID and 9 digit tracking number.
 
 Simply scan/paste in your IMB value into the text box and view the resulting info.
